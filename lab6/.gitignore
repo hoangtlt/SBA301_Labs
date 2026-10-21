@@ -1,0 +1,9 @@
+/target/
+/tmp/
+/.idea/
+*.iml
+/.env
+/.env.*
+!/.env.example
+/evidence/*.log
+/evidence/newman*.json
